@@ -28,6 +28,8 @@
 			<groupId>kjj.grpc</groupId>
 			<artifactId>inf</artifactId>
 			<version>1.0.0</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/lib/kjj/grpc/inf/1.0.0/inf-1.0.0.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>net.devh</groupId>
